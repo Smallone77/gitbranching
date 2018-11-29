@@ -2,3 +2,4 @@ create a method this will be referenced as your method from now on, called greet
 Greetings
 create2
 greetings
+method to print out Greetings for the parameter
