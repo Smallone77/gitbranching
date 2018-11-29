@@ -1,0 +1,2 @@
+virgo
+prints out your horoscope
